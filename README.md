@@ -5,6 +5,3 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
 </a>
-<!-- Start of banner code -->
-<a href="https://clicksfly.com/ref/112203649907278644207"><img src="https://clicksfly.com/img/ref/728x90.png" title="ClicksFly - Shorten URLs and Earn Money" /></a>
-<!-- End of banner code -->
