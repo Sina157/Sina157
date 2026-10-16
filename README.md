@@ -1,4 +1,3 @@
-<a href="https://www.youtube.com/watch?v=kaAdmiUEmBE" target="_blank">test</a>
 
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=header"/>
@@ -7,6 +6,6 @@
 <a href="#">
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=821FF7&height=120&section=footer"/>
 </a>
-<a href="https://seosprint.run/?ref=16578668" target="_blank"><img src="https://seosprint.run/promo/seo4x468x60.gif" width="468" height="60" border="0" alt="SEOSPRINT - Only the best solutions"/></a>
+
 
 
